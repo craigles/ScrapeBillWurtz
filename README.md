@@ -1,2 +1,2 @@
-# ScrapeBillWurtz
-Scrape all of the songs by Bill Wurtz
+# Scrape Bill Wurtz
+Get every song by Bill Wurtz
